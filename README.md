@@ -11,6 +11,8 @@ Add one of this in front of the title
 Describe briefly but descritively the device
 -->
 
+![PCB Preview not available](hardware/device-template.png)
+
 ## Features
 ### Functional
 
